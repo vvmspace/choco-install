@@ -11,9 +11,11 @@ Set-ExecutionPolicy -ExecutionPolicy ALLSIGNED
 iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
 ```
 ### Do not care about errors
-You can also check instruction at chocolatey.org
+You can also check instructions at chocolatey.org
 
 ## 4.Check choco
+```
 choco
+```
 ## 5.Have a nice day
 And follow https://github.com/vvmspace
